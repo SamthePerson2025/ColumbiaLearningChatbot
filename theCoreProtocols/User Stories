@@ -1,0 +1,10 @@
+**User Stories**
+1. AI Academic Navigator
+- As a busy student, I want to ask the AI assistant what specific courses I still need to take to complete my degree, so that I can ensure I am on track to graduate without spending hours deciphering the course catalog and my student portal.
+- As a student seeking guidance, I want to tell the AI assistant to find my academic advisor's next available appointment, so that I can easily book a meeting without having to log into a separate advising or calendar system.
+- As a career-focused student, I want the AI assistant to proactively recommend relevant studio events, workshops, and networking opportunities based on my major and interests, so that I can dedicate my time to building my craft and career rather than hunting through scattered campus bulletin boards and newsletters.
+
+2. AI Assignment Planner 
+- As a student facing a large, open-ended project, I want to upload or paste my assignment brief into the application, so that the AI can analyze it and suggest a step-by-step, actionable workflow (e.g., Research, Outline, First Draft, Revisions).
+- As a student with limited free time, I want the application to integrate directly with my digital calendar (e.g., Google Calendar, Apple Calendar), so that the AI can automatically schedule my broken-down project milestones around my existing classes, work shifts, and other commitments.
+- As a student struggling to start an intimidating assignment, I want the AI to prompt me with strategic brainstorming questions and low-stakes "first steps," so that I can build momentum and begin the creative process rather than staring at a blank screen.
