@@ -1,0 +1,10 @@
+**Tasks**
+
+1. Academic Navigator
+UX/UI Design & Prototyping
+- Map user flows: Define the step-by-step paths for logging in, querying course requirements, booking an advisor, and viewing recommended events.
+- Design the chat interface: Create wireframes and high-fidelity mockups in Figma for the conversational UI, ensuring it feels intuitive rather than administrative.
+- Design interactive UI widgets: Create the visual components the AI will return within the chat, such as a clickable course checklist, a calendar date-picker for advising, and event RSVP cards.
+- Prototype the onboarding experience: Design a lightweight flow where students can explicitly tag their interests (e.g., specific studio disciplines, software, or career goals) to fuel the networking recommendations.
+
+2. 
