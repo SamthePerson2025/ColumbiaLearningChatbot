@@ -8,3 +8,8 @@
 - As a student facing a large, open-ended project, I want to upload or paste my assignment brief into the application, so that the AI can analyze it and suggest a step-by-step, actionable workflow (e.g., Research, Outline, First Draft, Revisions).
 - As a student with limited free time, I want the application to integrate directly with my digital calendar (e.g., Google Calendar, Apple Calendar), so that the AI can automatically schedule my broken-down project milestones around my existing classes, work shifts, and other commitments.
 - As a student struggling to start an intimidating assignment, I want the AI to prompt me with strategic brainstorming questions and low-stakes "first steps," so that I can build momentum and begin the creative process rather than staring at a blank screen.
+
+3. AI Professor/Assignement FAQ
+- As a student, I want to ask the AI specific questions about assignment guidelines and course policies. So that I can get immediate, accurate answers without waiting 24-48 hours for an email reply.
+- As a professor, I want to upload my specific syllabus, lecture notes, and assignment briefs into a secure portal. So that I can guarantee the AI only trains on and dispenses my approved, verified course information.
+- As a professor, I want to view a dashboard highlighting the "Top Questions Asked This Week." So that I can quickly identify patterns and realize when an assignment's instructions are vague or unclear.
