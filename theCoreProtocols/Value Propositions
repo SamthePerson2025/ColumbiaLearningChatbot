@@ -10,10 +10,11 @@ It could also integrate with the student's calendar.
 This would be especially useful for students taking multiple classes simultaneously.
 --> Value Proposition: "Deconstruct the brief. Master the process." This AI-driven web application transforms overwhelming, open-ended assignments into clear, actionable workflows. By acting as a strategic planning partner rather than an automatic generator, it empowers students to organize their time, overcome blank-page paralysis, and build the critical project management skills essential for the professional creative industry.
 
-3. AI Professor/Assignment FAQ
-To build an AI web application that is trained in the professor's approved course information.
+3. AI Professor/Assignment Topic Bot
+To build an AI web application that is trained in the professors’ approved course information with different topics in different majors.
+Professors begin the process of accumulating program or even “within program” shared knowledge (“canon”) – shared communal knowledge that is built collaboratively by a community of faculty that represents the “knowledge” parts of those programs learning goals – evolves over time
+Students get different “topic bots” that reflect a lot of the shared knowing of the faculty in each topic… could be program specific, course sequence specific or even course specific. Ensures that the “knowledge exploration” (conversations) are “by design” from the faculty as starting point
 Students get immediate answers while professors spend less time responding to repetitive emails.
-The professor could also see:
-Top questions students asked this week
-That could reveal where assignment instructions are unclear.
---> Value Proposition: Instant student support. Effortless instructor insights. This AI web application acts as a secure, dual-purpose academic tool. By training exclusively on a professor’s verified materials, it provides students with immediate, accurate academic support while transforming student inquiries into actionable data to improve course design.
+The professor could also see: Top questions students asked this week. That could reveal where assignment instructions are unclear.
+The school’s administrators can accumulate and put in the AI bot the domain knowledge, per program, in a way that can serve students, grow over-time, and develop community expertise.
+--> Value Proposition: Instant student support. Effortless instructor insights. This AI web application acts as a secure, dual-purpose academic tool. By training exclusively on school professors’ verified materials from multiple majors, it provides students with immediate, accurate academic support in multiple topics while transforming student inquiries into actionable data to improve course design.
