@@ -9,7 +9,17 @@
 - As a student with limited free time, I want the application to integrate directly with my digital calendar (e.g., Google Calendar, Apple Calendar), so that the AI can automatically schedule my broken-down project milestones around my existing classes, work shifts, and other commitments.
 - As a student struggling to start an intimidating assignment, I want the AI to prompt me with strategic brainstorming questions and low-stakes "first steps," so that I can build momentum and begin the creative process rather than staring at a blank screen.
 
-3. AI Professor/Assignement FAQ
-- As a student, I want to ask the AI specific questions about assignment guidelines and course policies. So that I can get immediate, accurate answers without waiting 24-48 hours for an email reply.
-- As a professor, I want to upload my specific syllabus, lecture notes, and assignment briefs into a secure portal. So that I can guarantee the AI only trains on and dispenses my approved, verified course information.
-- As a professor, I want to view a dashboard highlighting the "Top Questions Asked This Week." So that I can quickly identify patterns and realize when an assignment's instructions are vague or unclear.
+3. AI Professor/Assignement Topic Bot
+Student Experience
+- As a student, I want to query a course-specific "topic bot" at any time of day so that I can get instant, accurate answers to my questions while working on assignments outside of regular office hours.
+- As a student, I want assurance that the AI's responses are generated strictly from my professors' verified materials so that I avoid hallucinated or generic web information that contradicts my specific Columbia College program guidelines.
+- As a student, I want to seamlessly switch between different topic bots (e.g., a Graphic Design bot vs. an Audio Arts bot) so that I receive contextualized answers relevant to the exact major or course sequence I am currently studying.
+- As a student, I want the AI to provide citations or links back to the original syllabus, lecture slide, or required reading so that I can independently verify the context and dive deeper into the material.
+Faculty Experience
+- As a professor, I want to upload and curate my course materials into a shared repository with other faculty so that we can collaboratively build a unified "canon" of knowledge for our department.
+- As a professor, I want the web application to automatically answer repetitive logistical and syllabus-based questions so that I can dedicate my email time and office hours to higher-level mentoring and creative problem-solving.
+- As a professor, I want to view a weekly dashboard of the most frequently asked questions by my students so that I can easily identify bottlenecks in comprehension or confusing assignment instructions.
+- As a professor, I want the ability to update, correct, or refine the approved knowledge base mid-semester so that the bot's understanding naturally evolves alongside classroom discussions and industry shifts.
+- As a professor, I want to set parameters or "exploration pathways" for the topic bot so that the AI guides students through a deliberate learning process rather than just giving them the final answer.
+Department & Course Design
+- As a department chair or curriculum designer, I want to analyze aggregated trends in student inquiries across an entire course sequence so that I can evaluate whether the program's overarching learning goals are being met and adjust future curricula accordingly.
