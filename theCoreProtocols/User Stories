@@ -5,11 +5,17 @@ Student Experience
 - As a student, I want assurance that the AI's responses are generated strictly from my professors' verified materials so that I avoid hallucinated or generic web information that contradicts my specific Columbia College program guidelines.
 - As a student, I want to seamlessly switch between different topic bots (e.g., a Graphic Design bot vs. an Audio Arts bot) so that I receive contextualized answers relevant to the exact major or course sequence I am currently studying.
 - As a student, I want the AI to provide citations or links back to the original syllabus, lecture slide, or required reading so that I can independently verify the context and dive deeper into the material.
+- As a student, I want to know my school journey so that I can stay on track and understand the priorities I need to make for my classes.
+- As a student, I want to be in control with my education so that I can graduate on my own timeline and take the classes I want to prioritize.
 Faculty Experience
 - As a professor, I want to upload and curate my course materials into a shared repository with other faculty so that we can collaboratively build a unified "canon" of knowledge for our department.
 - As a professor, I want the web application to automatically answer repetitive logistical and syllabus-based questions so that I can dedicate my email time and office hours to higher-level mentoring and creative problem-solving.
 - As a professor, I want to view a weekly dashboard of the most frequently asked questions by my students so that I can easily identify bottlenecks in comprehension or confusing assignment instructions.
 - As a professor, I want the ability to update, correct, or refine the approved knowledge base mid-semester so that the bot's understanding naturally evolves alongside classroom discussions and industry shifts.
 - As a professor, I want to set parameters or "exploration pathways" for the topic bot so that the AI guides students through a deliberate learning process rather than just giving them the final answer.
+- As a professor, I want to use the bot to create syllabi and lesson plans effectively so that it would lighten my course load and allows me to get specific on certain lessons and prioritize the students.
+- As a professor, I want to see my student’s pre-requisites so that I can help lead students in the right direction to their final goal when graduating.
+- As a professor, I want use the bot as a way to organize all the classes I have so I can optimize my effectiveness in class.
+- As a professor, I want the bot to organize my gradebook so that I can see how I can support my students the best way possible.
 Department & Course Design
 - As a department chair or curriculum designer, I want to analyze aggregated trends in student inquiries across an entire course sequence so that I can evaluate whether the program's overarching learning goals are being met and adjust future curricula accordingly.
